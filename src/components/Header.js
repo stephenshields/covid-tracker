@@ -7,13 +7,10 @@ const Header = () => {
   return (
     <header>
       <Container type="content">
-        <h1>Coronavirus (COVID-19)</h1>
+        <h1>Coronavirus Tracker  (COVID-19)</h1>
         <ul>
           <li>
-            <a href="https://github.com/colbyfayock/gatsby-starter-leaflet">Gatsby Starter Leaflet</a>
-          </li>
-          <li>
-            <a href="https://github.com/colbyfayock/coronavirus-map-dashboard">
+            <a href="https://github.com/stephenshields/">
               <FaGithub /> Github
             </a>
           </li>
